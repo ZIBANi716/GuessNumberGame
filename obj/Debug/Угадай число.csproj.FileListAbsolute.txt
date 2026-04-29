@@ -1,0 +1,7 @@
+C:\Visual Studio Projects\Тренировочные проекты\Тренировочные проекты\bin\Debug\Тренировочные проекты.exe.config
+C:\Visual Studio Projects\Тренировочные проекты\Тренировочные проекты\bin\Debug\Тренировочные проекты.exe
+C:\Visual Studio Projects\Тренировочные проекты\Тренировочные проекты\bin\Debug\Тренировочные проекты.pdb
+C:\Visual Studio Projects\Тренировочные проекты\Тренировочные проекты\obj\Debug\Угадай число.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Тренировочные проекты\Тренировочные проекты\obj\Debug\Угадай число.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Тренировочные проекты\Тренировочные проекты\obj\Debug\Тренировочные проекты.exe
+C:\Visual Studio Projects\Тренировочные проекты\Тренировочные проекты\obj\Debug\Тренировочные проекты.pdb
